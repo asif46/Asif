@@ -2,4 +2,5 @@
 - 👀 I’m interested in Flutter app development and node js APIs etc
 - 🌱 I’m currently working as a mobile application devloper in Flutter
 - 💞️ I’m looking to collaborate on mobile application development
-- 📫 reach me by email masif.cs46@gmail.com
+- 📫 reach me by email masif.cs46@gmail.com or phone +923039327910
+- 💞️ linkedIn profile https://www.linkedin.com/in/muhammad-asif-a3877b1b6
